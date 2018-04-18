@@ -1,5 +1,6 @@
 # Hangman-Game
 Overview
+------------------------
 In this project I created an app so you can play the popular game Hangman. The app will run in the browser, and feature dynamically updated HTML powered by JavaScript code. The user will be guessing the popular characters from the Land of Ooo, in Adventure Time.
 It's a simple to game to flex those JavaScript muscles.
 
